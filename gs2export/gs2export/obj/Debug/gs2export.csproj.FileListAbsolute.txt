@@ -1,0 +1,7 @@
+C:\Users\Tea\AppData\Local\Temporary Projects\gs2export\bin\Debug\gs2export.exe.config
+C:\Users\Tea\Documents\Visual Studio 2012\Projects\gs2export\gs2export\bin\Debug\gs2export.exe.config
+C:\Users\Tea\Documents\Visual Studio 2012\Projects\gs2export\gs2export\bin\Debug\gs2export.exe
+C:\Users\Tea\Documents\Visual Studio 2012\Projects\gs2export\gs2export\bin\Debug\gs2export.pdb
+C:\Users\Tea\Documents\Visual Studio 2012\Projects\gs2export\gs2export\obj\Debug\gs2export.csprojResolveAssemblyReference.cache
+C:\Users\Tea\Documents\Visual Studio 2012\Projects\gs2export\gs2export\obj\Debug\gs2export.exe
+C:\Users\Tea\Documents\Visual Studio 2012\Projects\gs2export\gs2export\obj\Debug\gs2export.pdb
